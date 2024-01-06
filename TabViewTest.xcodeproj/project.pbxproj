@@ -21,6 +21,7 @@
 		AE0969A92B49DCF100605A35 /* TabViewTest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TabViewTest.entitlements; sourceTree = "<group>"; };
 		AE0969AB2B49DCF100605A35 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AE0969B22B49E2C400605A35 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AE0969B32B49E4E000605A35 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		AE0969972B49DCF000605A35 = {
 			isa = PBXGroup;
 			children = (
+				AE0969B32B49E4E000605A35 /* README.md */,
 				AE0969A22B49DCF000605A35 /* TabViewTest */,
 				AE0969A12B49DCF000605A35 /* Products */,
 			);
