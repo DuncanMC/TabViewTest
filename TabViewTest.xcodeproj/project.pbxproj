@@ -20,6 +20,7 @@
 		AE0969A72B49DCF100605A35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE0969A92B49DCF100605A35 /* TabViewTest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TabViewTest.entitlements; sourceTree = "<group>"; };
 		AE0969AB2B49DCF100605A35 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AE0969B22B49E2C400605A35 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 			children = (
 				AE0969A32B49DCF000605A35 /* TabViewTestApp.swift */,
 				AE0969A52B49DCF000605A35 /* ContentView.swift */,
+				AE0969B22B49E2C400605A35 /* README.md */,
 				AE0969A72B49DCF100605A35 /* Assets.xcassets */,
 				AE0969A92B49DCF100605A35 /* TabViewTest.entitlements */,
 				AE0969AA2B49DCF100605A35 /* Preview Content */,
